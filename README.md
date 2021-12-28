@@ -1,2 +1,2 @@
 # Web-Live-Chat
-Local live chat app for websites.
+Local live chat for websites.

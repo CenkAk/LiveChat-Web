@@ -1,0 +1,29 @@
+{
+  "name": "weblivechat",
+  "version": "1.0.0",
+  "description": "Live Chat app for websites.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CenkAk/Web-Live-Chat.git"
+  },
+  "keywords": [
+    "live",
+    "chat",
+    "web",
+    "app"
+  ],
+  "author": "Orhan Cenk Akcadogan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CenkAk/Web-Live-Chat/issues"
+  },
+  "homepage": "https://github.com/CenkAk/Web-Live-Chat#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "socket.io": "^4.4.0"
+  }
+}
